@@ -2,7 +2,7 @@
 	"name": "ansicomment",
 	"displayName": "AnsiComment",
 	"description": "ANSI C Comment Extension",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
