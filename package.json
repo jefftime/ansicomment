@@ -2,6 +2,11 @@
 	"name": "ansicomment",
 	"displayName": "AnsiComment",
 	"description": "ANSI C Comment Extension",
+	"publisher": "Jefftime",
+	"repository": {
+		"url": "https://github.com/jefftime/ansicomment",
+		"type": "git"
+	},
 	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.38.0"
